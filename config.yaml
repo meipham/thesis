@@ -1,0 +1,7 @@
+appName: Senana
+
+datapath:
+  train: "C:\\Users\\Uyen\\Documents\\nlp\\YNdata\\eval"
+  test: "C:\\Users\\Uyen\\Documents\\nlp\\YNdata\\train"
+  raw: "C:\\Users\\Uyen\\Documents\\nlp\\YNdata\\PRICE_MAY_NOV_2019.csv"
+
