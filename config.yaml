@@ -1,7 +1,9 @@
-appName: Senana
+AppName: Senana
 
-datapath:
-  train: "C:\\Users\\Uyen\\Documents\\nlp\\YNdata\\eval"
-  test: "C:\\Users\\Uyen\\Documents\\nlp\\YNdata\\train"
-  raw: "C:\\Users\\Uyen\\Documents\\nlp\\YNdata\\PRICE_MAY_NOV_2019.csv"
+Datapath:
+  Root: "C:\\Users\\Uyen\\Documents\\nlp\\YNdata"
+  Train: "train_price.csv"
+  Validate: "valid_price.csv"
+  Test: "test_price.csv"
+  Raw: "C:\\Users\\Uyen\\Documents\\nlp\\YNdata\\PRICE_MAY_NOV_2019.csv"
 

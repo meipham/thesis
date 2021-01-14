@@ -1,5 +1,9 @@
 # Data files
-data/
+data/*
+text_classification/
+meilibs/
+model/*
+note.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -10,6 +14,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.vector_cache
 .Python
 build/
 develop-eggs/
